@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omar-elfiki
 - 👀 I’m interested in Aglie Project Management & Development
-- 🌱 I’m currently learning Computer Science at Coventry University
+- 🌱 I’m currently learning Computer Science at Maastricht University
 - 📫 You can reach me on my LinkedIn via my Github Profile
 
 <!---
