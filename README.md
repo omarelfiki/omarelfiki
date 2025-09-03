@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @omar-elfiki
-- 👀 I’m interested in Aglie Project Management & Software Development
-- 🌱 I’m currently studying Computer Science at Maastricht University
+- 👋 Hi, I’m @omarelfiki
+- 👀 I’m interested in Mobile Software Development
+- 🌱 I’m currently studying Computer Science at Maastricht University - DACS
 - 📫 You can reach me on my LinkedIn via my Github Profile or at me@omarelfiki.com
 
 <!---
